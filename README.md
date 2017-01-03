@@ -15,6 +15,10 @@ plugins: [
 ]
 ```
 
+Additional plugins used on screenshot:
+
+* [`hyperminimal`](https://github.com/jancborchardt/hyperminimal)
+* [`hyper-statusline`](https://github.com/henrikdahl/hyper-statusline)
 
 ## License
 
